@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mechanism-comparison/static/css/main.53b43004.css",
+    "main.js": "/mechanism-comparison/static/js/main.e5d53f31.js",
+    "static/js/787.4ca956d9.chunk.js": "/mechanism-comparison/static/js/787.4ca956d9.chunk.js",
+    "index.html": "/mechanism-comparison/index.html",
+    "main.53b43004.css.map": "/mechanism-comparison/static/css/main.53b43004.css.map",
+    "main.e5d53f31.js.map": "/mechanism-comparison/static/js/main.e5d53f31.js.map",
+    "787.4ca956d9.chunk.js.map": "/mechanism-comparison/static/js/787.4ca956d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b43004.css",
+    "static/js/main.e5d53f31.js"
+  ]
+}
